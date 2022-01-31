@@ -13,6 +13,12 @@
       <version>7.52.0.Final-redhat-00008</version>
       <scope>provided</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.drools/drools-scenario-simulation-backend -->
+<dependency>
+    <groupId>org.drools</groupId>
+    <artifactId>drools-scenario-simulation-backend</artifactId>
+    <version>7.52.0.Final-redhat-00008</version>
+</dependency>
     <dependency>
       <groupId>org.kie</groupId>
       <artifactId>kie-internal</artifactId>
